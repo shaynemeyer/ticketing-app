@@ -3,4 +3,4 @@ node_modules
 # ide's and os files
 .idea
 .vscode
-.Dh_Store
+.DS_Store

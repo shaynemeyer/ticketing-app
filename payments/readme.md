@@ -9,3 +9,6 @@ docker build -t shaynemeyer/payments .
 ```
 docker push shaynemeyer/payments
 ```
+
+## Tests
+To run tests be sure to set the `STRIPE_KEY` env variable.
